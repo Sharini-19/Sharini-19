@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sharini-19
-- 👀 I’m interested in Machine Learning and Data Science
+- 👀 I’m interested in Machine Learning and Data Analysis
 - 🌱 I’m currently learning Machine Learning 
 - 💞️ I’m looking to collaborate on Data Science 
 - 📫 How to reach me sharijay19@gmail.com
